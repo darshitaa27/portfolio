@@ -8,13 +8,13 @@ const Hero = () => {
                 className={`absolute inset-0 top-[120px] max-w-7xl mx-auto sm:px-16 px-6 flex flex-row items-start gap-5`}
             >
                 <div className='flex flex-col justify-center items-center mt-5'>
-                    <div className='w-5 h-5 rounded-full bg-[#915EFF]' />
-                    <div className='w-1 sm:h-80 h-40 violet-gradient' />
+                    <div className='w-5 h-5 rounded-full bg-[#2962FF]' />
+                    <div className='w-1 sm:h-80 h-40 blue-gradient' />
                 </div>
 
                 <div>
                     <h1 className={`font-black text-white lg:text-[80px] sm:text-[60px] xs:text-[50px] text-[40px] lg:leading-[98px] mt-2`}>
-                        Hi, I'm <span className='text-[#915EFF]'>Darshita</span>
+                        Hi, I'm <span className='text-[#2962FF]'>Darshita</span>
                     </h1>
                     <p className={`text-[#dfd9ff] font-medium lg:text-[30px] sm:text-[26px] xs:text-[20px] text-[16px] lg:leading-[40px] mt-2 text-white-100`}>
                         Software Developer | UI/UX & Product Design <br className='sm:block hidden' />
@@ -22,7 +22,7 @@ const Hero = () => {
                     </p>
 
                     <div className="mt-8 flex flex-wrap gap-4">
-                        <a href="#work" className="bg-[#915EFF] text-white py-3 px-8 rounded-xl outline-none w-fit font-bold shadow-md shadow-primary hover:bg-[#804dee] transition-all">
+                        <a href="#work" className="bg-[#2962FF] text-white py-3 px-8 rounded-xl outline-none w-fit font-bold shadow-md shadow-primary hover:bg-[#1e4bd1] transition-all">
                             View Projects
                         </a>
                         <a href="#contact" className="bg-transparent border border-white py-3 px-8 rounded-xl outline-none w-fit font-bold hover:bg-white hover:text-black transition-all">

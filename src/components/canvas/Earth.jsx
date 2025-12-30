@@ -12,7 +12,7 @@ const Earth = () => {
             <mesh>
                 <icosahedronGeometry args={[2.5, 2]} />
                 <meshStandardMaterial
-                    color="#5e6ad2"
+                    color="#2962FF"
                     wireframe={true}
                     transparent
                     opacity={0.3}
@@ -21,7 +21,7 @@ const Earth = () => {
             <mesh>
                 <icosahedronGeometry args={[2.2, 1]} />
                 <meshStandardMaterial
-                    color="#804dee"
+                    color="#448AFF"
                     wireframe={true}
                     transparent
                     opacity={0.5}

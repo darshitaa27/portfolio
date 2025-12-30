@@ -8,7 +8,7 @@ export default {
         extend: {
             colors: {
                 background: "#050505",
-                "primary-glow": "rgba(94, 106, 210, 0.5)",
+                "primary-glow": "rgba(41, 98, 255, 0.5)",
                 secondary: "#aaa6c3",
                 tertiary: "#151030",
                 "black-100": "#100d25",
@@ -17,7 +17,7 @@ export default {
             },
             boxShadow: {
                 card: "0px 35px 120px -15px #211e35",
-                neon: "0 0 10px #5e6ad2, 0 0 20px #5e6ad2"
+                neon: "0 0 10px #2962FF, 0 0 20px #2962FF"
             },
             fontFamily: {
                 sans: ['Inter', 'sans-serif'],
